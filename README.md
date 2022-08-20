@@ -1,5 +1,5 @@
 # ASL Project
-This project is an Arabic lemmatization model called ASL, which lemmatizes words with NMT sequential model on character level.
+This project is an Arabic lemmatization model called ASL, which lemmatizes words with NMT sequential model on character level as Seq2Seq (Word to Lemma)
 ## Files contained in the project:
 
 ### Data.json
